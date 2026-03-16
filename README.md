@@ -6,6 +6,9 @@
   * [Resource Packs](#resource-packs)
   * [Shaders](#shaders)
 * [Creating an Issue](#creating-an-issue)
+ * [Bugs](#bugs)
+ * [Crashes](#crashes)
+ * [Performance Issues](#performance-issues)
 * [Releases](#releases)
 ## Description
 Smolder's Ultimatum is my carefully crafted pack including mods, resource packs, and shaders to give Minecraft a visual improvement, some quality of life changes, and a lot of optimization.
@@ -270,11 +273,11 @@ Modpacks sometimes suffer from a lack of visual refinement. Shaders help with ju
 |[Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)|A shader pack for Minecraft: Java Edition with exceptional attention to detail, high standards of quality, and top tier optimization.|
 ## Creating an Issue
 I want to make this pack as perfect as possible, so I need input from you, the user of this modpack. If you experience any textures that fail to load, any models that look incorrect, unexpected stutters or crashes, or any bugs in general, please make create an issue with the following steps.
-### Bug
+### Bugs
 In the case of a bug, clearly state the issue and make sure to describe everything. This includes what it seems to be from your perspectve, any sequence of events you think could have caused it, and any screenshots or videos if at all possible.
 ### Crashes
 If you experience a crash, please attach or upload all associated logs and clearly explain what sequence of events took place before the crash. This will allow me to assess if it is a mod issue or recreate the issue myself to determine the cause.
-### Performance
+### Performance Issues
 If you are experiencing performance issues but not encountering bugs or crashes, please do not create an issue and instead try utilizing the settings of the many performance mods to your advantage. I am only able to optimize this pack so much. If mod settings do not prevail, please try disabling resource packs that add animations or extra detail to blocks. Extra geometry can cause significant lag over time.
 ## Releases
 I'll be releasing the pack only for the latest versions of the game as it is meant to provide the most complete user experience. If I find a way to downgrade packs in an efficient manner in the future, I may consider doing releases for earlier versions. For now, the current version is 1.21.11.
