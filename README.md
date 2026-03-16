@@ -1,7 +1,7 @@
 # Smolder's Ultimatum Guide
 ## Table of Contents
 * [Description](description)
-* [Included Content](Included Content)
+* [Included Content](included-content)
   * [Mods](mods)
   * [Resource Packs](resource-packs)
   * [Shaders](shaders)
