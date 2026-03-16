@@ -6,21 +6,21 @@
   * [Resource Packs](#resource-packs)
   * [Shaders](#shaders)
 * [Creating an Issue](#creating-an-issue)
- * [Bugs](#bugs)
- * [Crashes](#crashes)
- * [Performance Issues](#performance-issues)
+  * [Bugs](#bugs)
+  * [Crashes](#crashes)
+  * [Performance Issues](#performance-issues)
 * [Releases](#releases)
 ## Description
 Smolder's Ultimatum is my carefully crafted pack including mods, resource packs, and shaders to give Minecraft a visual improvement, some quality of life changes, and a lot of optimization.
-### Optimization
+#### Optimization
 This pack comes with over 100 mods. While some of these add quality of life features to Minecraft, many are designed specifically for optimization. These include well-known mods such as Sodium and Iris and more uncommon ones like Ixeris and Packet Fixer.
-### Quality of Life
+#### Quality of Life
 As stated above, some of the mods this pack consists of are made for quality of life. This includes things like smooth UI elements, modified camera motion, better animations and sounds, and much more that makes Minecraft more comfortable.
-### Visual Improvements
+#### Visual Improvements
 Resource packs contribute the most to gameplay, with upgrades being made to items, blocks, models, UI, HUD, and even sounds. Although this pack improves the game significantly with the default rendering settings, shaders make use of the many PBR features built into most of the resource packs, allowing you to immerse yourself in an enhanced Minecraft experience.
 ## Included Content
 As this modpack is built using resources developed by others, I must give credit where it is due. Below are lists of every mod, resource pack, and shader with the name (clickable and redirects to its Modrinth page), the category, and description.
-### Mods
+#### Mods
 I wouldn't be able to call this a modpack if it didn't contain any mods.
 |Name|Description|
 |---|---|
@@ -206,7 +206,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[YetAnotherConfigLib (YACL)]()|
 |[Your Options Shall Be Respected (YOSBR)]()|
 |[Zoomify]()|
-### Resource Packs
+#### Resource Packs
 A good modpack also needs some good design whether it be models, animations, textures, or all of them together.
 >[!NOTE]
 >These are listed in the order they need to be loaded into the game in to ensure there are no texture or model bugs. The top item of this list should match the top item of the in-game list.
@@ -263,7 +263,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 >If Fresh Animations: Objects is enabled, make sure to disable the boat_patch.jem model in Entity Model Features using the steps below.</br>
 >EMF Settings -> Models -> All Models -> boat_patch.jem -> Disable
 
-### Shaders
+#### Shaders
 Modpacks sometimes suffer from a lack of visual refinement. Shaders help with just that. They can have varying performance impacts though.
 |Name|Description|
 |---|---|
@@ -273,11 +273,11 @@ Modpacks sometimes suffer from a lack of visual refinement. Shaders help with ju
 |[Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)|A shader pack for Minecraft: Java Edition with exceptional attention to detail, high standards of quality, and top tier optimization.|
 ## Creating an Issue
 I want to make this pack as perfect as possible, so I need input from you, the user of this modpack. If you experience any textures that fail to load, any models that look incorrect, unexpected stutters or crashes, or any bugs in general, please make create an issue with the following steps.
-### Bugs
+#### Bugs
 In the case of a bug, clearly state the issue and make sure to describe everything. This includes what it seems to be from your perspectve, any sequence of events you think could have caused it, and any screenshots or videos if at all possible.
-### Crashes
+#### Crashes
 If you experience a crash, please attach or upload all associated logs and clearly explain what sequence of events took place before the crash. This will allow me to assess if it is a mod issue or recreate the issue myself to determine the cause.
-### Performance Issues
+#### Performance Issues
 If you are experiencing performance issues but not encountering bugs or crashes, please do not create an issue and instead try utilizing the settings of the many performance mods to your advantage. I am only able to optimize this pack so much. If mod settings do not prevail, please try disabling resource packs that add animations or extra detail to blocks. Extra geometry can cause significant lag over time.
 ## Releases
 I'll be releasing the pack only for the latest versions of the game as it is meant to provide the most complete user experience. If I find a way to downgrade packs in an efficient manner in the future, I may consider doing releases for earlier versions. For now, the current version is 1.21.11.
