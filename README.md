@@ -1,11 +1,11 @@
 # Smolder's Ultimatum Guide
 ## Table of Contents
-* [Description](description)
-* [Included Content](included-content)
-  * [Mods](mods)
-  * [Resource Packs](resource-packs)
-  * [Shaders](shaders)
-* [Caveats](caveats)
+* [Description](#description)
+* [Included Content](#included-content)
+  * [Mods](#mods)
+  * [Resource Packs](#resource-packs)
+  * [Shaders](#shaders)
+* [Caveats](#caveats)
 ## Description
 ![Smolder's Ultimatum Title](https://cdn.modrinth.com/data/cached_images/2c1b91bb77a82b4b0769d441074e4bf7c6f1ee72.png)
 Smolder's Ultimatum is my carefully crafted pack including mods, resource packs, and shaders to give Minecraft a visual improvement, some quality of life changes, and a lot of optimization.
