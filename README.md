@@ -258,5 +258,10 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Glass Pane Culling Fix](https://modrinth.com/mod/continuity)|Fixes culling issues in between glass panes.|
 ### Shaders
 Modpacks sometimes suffer from a lack of visual refinement. Shaders help with just that. They can have varying performance impacts though.
-
+|Name|Description|
+|---|---|
+|[Alpha Piscium](https://modrinth.com/shader/alpha-piscium)|High-quality realistic Minecraft shaderpack featuring global illumination, volumetric clouds, atmospheric scattering, and stunning visual effects.|
+|[Bliss](https://modrinth.com/shader/bliss-shader)|A well performing fantasy styled shaderpack with emphasis on scene variation and customization.|
+|[BSL](https://modrinth.com/shader/bsl-shaders)|A bright, colorful ,and distinct shaderpack exclusively made for Minecraft: Java Edition.|
+|[Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)|A shader pack for Minecraft: Java Edition with exceptional attention to detail, high standards of quality, and top tier optimization.|
 ## Caveats
