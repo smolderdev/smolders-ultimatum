@@ -191,7 +191,6 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Title Fixer]()|
 |[UniLib]()|
 |[Very Many Players (Fabric)]()|
-|[ViaFabricPlus]()|
 |[Visuality]()|
 |[Voxy]()|
 |[WalksyLib]()|
@@ -209,6 +208,54 @@ A good modpack also needs some good design whether it be models, animations, tex
 >[!NOTE]
 >These are listed in the order they need to be loaded into the game in to ensure there are no texture or model bugs. The top item of this list should match the top item of the in-game list.
 
+|Name|Description|
+|---|---|
+|[Example Pack! (Hold My Items)]()||
+|[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Significantly enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
+|[Minecarts with Wheels](https://modrinth.com/resourcepack/minecarts-with-wheels)|Adds working wheels to the minecarts.|
+|[Scripture 32x Latest](https://modrinth.com/resourcepack/scripture)|Upscales Minecraft’s font to 32x for better readability.|
+|[Vocal Villagers](https://modrinth.com/resourcepack/vvi)|Adds 43 extra sounds villagers can make.|
+|[Bushy Leaves](https://modrinth.com/resourcepack/bushy-leaves)|Removes the visual clutter from scaffolding.|
+|[Better Scaffolding Visibility](https://modrinth.com/resourcepack/better-scaffolding-visibility)|Makes leaves more bushy.|
+|[FA + Emissive](https://modrinth.com/resourcepack/fresh-animations-emissive)|Makes some Fresh Animations' textures emit light.|
+|[FA + Objects](https://modrinth.com/resourcepack/fresh-animations-objects)|Animates non-mob entities in Fresh Animations' style.|
+|[FA + Creepers](https://modrinth.com/resourcepack/fresh-animations-creepers)|Adds a new look for creepers, compatible with Fresh Animations.|
+|[FA + Player](https://modrinth.com/resourcepack/fa-player-extension)|Animates players in Fresh Animations' style.|
+|[FA + Quivers](https://modrinth.com/resourcepack/fresh-animations-quivers)|Gives skeletons quivers, compatible with Fresh Animations.|
+|[FA + Spiders](https://modrinth.com/resourcepack/fresh-animations-spiders)|Overhauls the design of spiders with Fresh Animations.|
+|[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)|Animates entities dynamically to freshen your Minecraft experience.|
+|[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)|Provides a unique book texture for each enchantment with a vanilla-like asethetic.|
+|[Hollowed's Discs](https://modrinth.com/resourcepack/holloweds-discs)|Retextures of every music disc in the game.|
+|[Clearer Slot Highlight](https://modrinth.com/resourcepack/clearer-slot-highlight)|Makes the item slot highlight a little clearer.|
+|[Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints)|Adds an outline to all enchantable tools.|
+|[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
+|[(Bee's) Banner Patten Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)|Retextures of banner pattern items, compatible with mods.|
+|[(Bee's) Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn)|Adds a blocky model for the goat horn item.|
+|[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
+|[(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)|Reworks the vanilla crop model and adds variations to crop textures.|
+|[(Bee's) Fluffy Carpets and Wool](https://modrinth.com/resourcepack/fluffy-carpets)|Changes the carpet and wool block models to look a lot fluffier!|
+|[Spawned Eggs](https://modrinth.com/resourcepack/spawned-eggs)|Replaces the default spawn eggs with full-body pixel icons of the mobs they summon.|
+|[Icon Branding Remover](https://modrinth.com/resourcepack/icons-advertisement-removal)|Removes the annoying logo from Icons resourcepack.|
+|[Icons](https://modrinth.com/resourcepack/icons)|Introduces icons throughout different aspects of the game.|
+|[Unique Dark](https://modrinth.com/resourcepack/unique-dark)|Dark GUI with unique textures for functional blocks.|
+|[Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)|Adds more detail and variation to flower pots with new, vanilla-friendly models.|
+|[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)|Improves lanterns and chains models with an enhanced 3D look for a more immersive experience.|
+|[No Pumpkin Blur](https://modrinth.com/resourcepack/no-pumpkin-blur)|Removes the annoying pumpkin blur.|
+|[Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd)|Adds colors and icons to enchants.|
+|[Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)|Gives the armor trims unique textures in the GUI, just like they have while worn by an entity.|
+|[Low Fire](https://modrinth.com/resourcepack/low-fire-pack)|Reduces the height of the fire in first-person.|
+|[Low Shield](https://modrinth.com/resourcepack/low-shield-pack)|Reduces the height of the shield in first-person.|
+|[Animated Items](https://modrinth.com/resourcepack/animated-items)|Animates various item textures.|
+|[Theone's Eating Animations](https://modrinth.com/resourcepack/theones-eating-animation-pack)|Adds sprite animations for edible and drinkable items.|
+|[Ray's Better Sugarcane](https://modrinth.com/resourcepack/better-sugar-cane)|Refreshes the vanilla sugar cane textures and adds a subtle 3D leaf model.|
+|[Vanilla Better Lily Pads](https://modrinth.com/resourcepack/vanilla-better-lily-pads)|Retextures the lily pad while staying Vanilla.|
+|[Vanilla Better Enchanting Table](https://modrinth.com/resourcepack/vanilla-better-enchanting-table)|Retextures the enchanting table while staying Vanilla.|
+|[Connected Bricks](https://modrinth.com/resourcepack/connected-bricks)|Adds connected textures for brick blocks.|
+|[Cnnected Rocks](https://modrinth.com/resourcepack/connected-rocks)|Adds connected textures for rock-like blocks.|
+|[Connected Paths](https://modrinth.com/resourcepack/connected-paths)|Adds connected textures for common path blocks.|
+|[SPBR](https://modrinth.com/resourcepack/spbr)|Provides physical properties and parallax details for vanilla 16x textures.|
+|[Default Connected Textures](https://modrinth.com/mod/continuity)|Adds some default connected textures for Continuity.|
+|[Glass Pane Culling Fix](https://modrinth.com/mod/continuity)|Fixes culling issues in between glass panes.|
 ### Shaders
 Modpacks sometimes suffer from a lack of visual refinement. Shaders help with just that. They can have varying performance impacts though.
 
