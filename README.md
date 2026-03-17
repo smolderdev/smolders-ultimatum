@@ -25,14 +25,15 @@ As this modpack is built using resources developed by others, I must give credit
 I wouldn't be able to call this a modpack if it didn't contain any mods.
 |Name|Description|
 |---|---|
-|[Entity Model Features](https://modrinth.com/mod/entity-model-features)|Adds support for OptiFine's Custom Entity Models (CEM).|
-|[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)|Adds many Entity Texture Features, including entity and player skin features.|
+|[\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)|Adds support for OptiFine's Custom Entity Models (CEM).|
+|[\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)|Adds many Entity Texture Features, including entity and player skin features.|
+|[2D Projectiles](https://modrinth.com/mod/twod_projectiles)|Replaces the 3D projectile models with their 2D item texture models.|
 |[3D Armor](https://modrinth.com/mod/armor-3d)|Renders the player and entity equipped armor in 3D and is compatible with most modded armor, dyes, and trims with support for 16x resource packs.|
 |[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)|Replaces the normally flat second layer of player skins with a fully 3D-modeled version.|
 |[Accessible Step](https://modrinth.com/mod/accessible-step)|Adds a new "Step Assistance" option into the Accessibility and Controls screens, replacing the auto-jump option.|
-|[Achievements Optimizer](https://modrinth.com/mod/achievements-optimizer)|Lightweight performance mod that optimizes how item-based achievements and advancements are processed.|
 |[Almanac](https://modrinth.com/mod/almanac)|Library used by frikinjay's mods with mostly loader independent shared code between multiple mods to avoid duplication of code.|
 |[Alternate Current](https://modrinth.com/mod/alternate-current)|An efficient and non-locational redstone dust implementation.|
+|[Animatica](https://modrinth.com/mod/animatica)|Implements the OptiFine/MCPatcher animated texture format.|
 |[Anvian's Lib](https://modrinth.com/mod/anvians-lib)|Library designed for use in Anvian's mods and includes various helpful functions for their projects.
 |[AppleSkin](https://modrinth.com/mod/appleskin)|Adds various food-related HUD improvements.|
 |[Architectury API](https://modrinth.com/mod/architectury-api)|Intermediary API aimed to ease developing multiplatform mods.|
@@ -186,7 +187,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)|Improves server performance at high playercounts.|
 |[ViaFabricPlus](https://modrinth.com/mod/viafabricplus)|Allows you to join every Minecraft server version.|
 |[Visuality](https://modrinth.com/mod/visuality)|Adds little visual improvements by adding a bunch of new particles.|
-|[Voxy](https://modrinth.com/mod/voxy)|Lightweight low overhead Level of Detail mod for minecraft capabile of rendering extreme render distances.|
+|[voxy](https://modrinth.com/mod/voxy)|Lightweight low overhead Level of Detail mod for minecraft capabile of rendering extreme render distances.|
 |[WalksyLib](https://modrinth.com/mod/walksylib)|Acts as a config/utility library for Walksy's mods.|
 |[Wavey Capes](https://modrinth.com/mod/wavey-capes)|Brings your cape to life with smooth animations and realistic physics.|
 |[WorldEdit](https://modrinth.com/mod/worldedit)|Adds advanced world editing features to Minecraft through commands and utilities.|
