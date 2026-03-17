@@ -197,8 +197,11 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)|Acts as a configuration library designed for builders.|
 |[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)|Provides default options if the corresponding option file doesn't exist.|
 |[Zoomify](https://modrinth.com/mod/zoomify)|Aims to provide the easiest, most configurable and best looking zoom mod you will ever find.|
->[!NOTE]
+>[!WARNING]
 >Although many of the mods in this list are known to be compatible with other mods and tend to provide universal support, some mods may have incompatibilities. If you encounter a mod that is incompatible in any way with my modpack, please see [Mod Incompatibilities](#mod-incompatibilities) to learn how to create an issue. This will be the quickest way to inform me of mods that do not work.
+
+>[!NOTE]
+>This modpack is exported without an overrides folder. Although this means all mods will revert to their default settings, some settings may need to be changed in order to meet your desires. No overrides folders will be included in any release, so it is recommended to preserve your configurations for the game to prevent them from being possibly erased.
 #### Resource Packs
 A good modpack also needs some good design whether it be models, animations, textures, or all of them together.
 >[!NOTE]
