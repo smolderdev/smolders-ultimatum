@@ -282,4 +282,4 @@ If you are experiencing performance issues but not encountering bugs or crashes,
 #### Mod Incompatibilities
 If you find a mod that is incompatible with this modpack in any way, please create an issue listing the mod's name and origin URL along with the Fabric crash report logs if at all possible so I can determine what it was incompatible with and whether or not said mod can be removed without much of an impact.
 ## Releases
-I'll be releasing the pack only for the latest versions of the game as it is meant to provide the most complete user experience. If I find a way to downgrade packs in an efficient manner in the future, I may consider doing releases for earlier versions. For now, the current version is 1.21.11.
+I'll be releasing the pack only for the latest versions of the game as it is meant to provide the most complete user experience. If I find a way to downgrade packs in an efficient manner in the future, I may consider doing releases for earlier versions. For now, the current version is 1.21.11. This isn't much of an issue considering ViaFabricPlus allows you to connect to servers made for earlier versions.
