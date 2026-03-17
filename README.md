@@ -231,6 +231,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints)|Adds an outline to all enchantable tools.|
 |[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
 |[(Bee's) Banner Patten Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)|Retextures of banner pattern items, compatible with mods.|
+|[(Bee's) Fine Armory](https://modrinth.com/resourcepack/fine-armoury)|Retextures tools, weapons, and armour sets while keeping the Vanilla look.|
 |[(Bee's) Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn)|Adds a blocky model for the goat horn item.|
 |[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
 |[(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)|Reworks the vanilla crop model and adds variations to crop textures.|
