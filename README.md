@@ -163,34 +163,34 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Skyboxify](https://modrinth.com/mod/skyboxify)|Allows you to use OptiFine skies in Fabric 1.21+.|
 |[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)|Adds smooth scrolling to various screens in Minecraft.|
 |[Smooth Swapping](https://modrinth.com/mod/smooth-swapping)|Moves items smoothly in inventories.|
-|[Sodium]()|
-|[Sodium Extra]()|
-|[Sodium Extra Information]()|
-|[Sodium Shadowy Path Blocks]()|
-|[Sound Physics Remastered]()|
-|[Sounds]()|
-|[Spawn Animations]()|
-|[Spawn Animations Compats]()|
-|[Status Effect Bars]()|
-|[Stfu]()|
-|[Structure Layout Optimizer]()|
-|[Substrate]()|
-|[Super Fast Math]()|
-|[Superflat World No Slimes]()|
-|[SuperMartijn642's Config Lib]()|
-|[TCDCommons API]()|
-|[Tectonic]()|
-|[ThreadTweak]()|
-|[Title Fixer]()|
-|[UniLib]()|
-|[Very Many Players (Fabric)]()|
-|[Visuality]()|
-|[Voxy]()|
-|[WalksyLib]()|
-|[Wavey Capes]()|
-|[WorldEdit]()|
-|[Xaero Zoomout]()|
-|[Xaero's Minimap]()|
+|[Sodium](https://modrinth.com/mod/sodium)|Improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft.|
+|[Sodium Extra](https://modrinth.com/mod/sodium-extra)|Adds features that shouldn't be in Sodium.|
+|[Sodium Extra Information](https://modrinth.com/mod/sodium-extra-information)|Adds more in-game information to Sodium.|
+|[Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks)|Reintroduces vanilla-like smooth lighting to non-full blocks.|
+|[Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)|Provides realistic sound attenuation, reverberation, and absorption through blocks.|
+|[Sounds](https://modrinth.com/mod/sound)|Adds a variety of new sound effects to the game, whilst improving existing ones that didn't quite fit.|
+|[Spawn Animations](https://modrinth.com/mod/spawn-animations)|Makes mobs dig out of the ground or poof into existence when they spawn.|
+|[Spawn Animations Compats](https://modrinth.com/mod/spawn-animations-compats)|Adds compatibility for Spawn Animations with 50+ mods.|
+|[Status Effect Bars](https://modrinth.com/mod/status-effect-bars)|Adds customizable bars to the status effects overlay to show the remaining duration of effects.|
+|[Stfu](https://modrinth.com/mod/shuttfup)|Fixes some annoyances and speeds up your game.|
+|[Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer)|Attempts to optimize the generation of Jigsaw Structures and NBT pieces.|
+|[Super Fast Math](https://modrinth.com/mod/super-fast-math)|Optimizes core mathematical operations inside Minecraft.|
+|[Superflat World No Slimes](https://modrinth.com/mod/superflat-world-no-slimes)|Removes those pesky slimes when you're trying to be creative in a superflat world.|
+|[SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)|Makes dealing with config files just a bit easier.|
+|[TCDCommons API](https://modrinth.com/mod/tcdcommons)|Acts as TheCSDev's personal library mod for the Minecraft modding environment.|
+|[Tectonic](https://modrinth.com/mod/tectonic)|Aims to transform how terrain is shaped by modifying world generation.|
+|[Text Placeholder API](https://modrinth.com/mod/placeholder-api)|Acts as a placeholder and text manipulation library for Minecraft mods.|
+|[ThreadTweak](https://modrinth.com/mod/threadtweak)|Improves and tweaks Minecraft thread scheduling.|
+|[Title Fixer](https://modrinth.com/mod/title-fixer)|Makes the Minecraft title fit the screen at all times.|
+|[UniLib](https://modrinth.com/mod/unilib)|Acts as a common set of utilities, designed for over 50 versions of Minecraft.|
+|[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)|Improves server performance at high playercounts.|
+|[ViaFabricPlus](https://modrinth.com/mod/viafabricplus)|Allows you to join every Minecraft server version.|
+|[Visuality](https://modrinth.com/mod/visuality)|Adds little visual improvements by adding a bunch of new particles.|
+|[Voxy](https://modrinth.com/mod/voxy)|Lightweight low overhead Level of Detail mod for minecraft capabile of rendering extreme render distances.|
+|[WalksyLib](https://modrinth.com/mod/walksylib)|Acts as a config/utility library for Walksy's mods.|
+|[Wavey Capes](https://modrinth.com/mod/wavey-capes)|Brings your cape to life with smooth animations and realistic physics.|
+|[WorldEdit](https://modrinth.com/mod/worldedit)|Adds advanced world editing features to Minecraft through commands and utilities.|
+|[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)|Displays a map of the nearby world terrain, players, mobs, and entities.|
 |[Xaero's World Map]()|
 |[XXL Packets]()|
 |[YetAnotherConfigLib (YACL)]()|
