@@ -107,7 +107,6 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Jade](https://modrinth.com/mod/jade)|Shows information about what you are looking at.|
 |[Jukebox Custom Disc Fix](https://modrinth.com/mod/jukebox-custom-disc-fix)|Fixes bug MC-260346, which causes custom music discs, when played in a jukebox, to be cut off when the vanilla disc would normally end.|
 |[Just Enough Breeding (JEBr)](https://modrinth.com/mod/justenoughbreeding)|Displays breeding information for JEI/REI/EMI.|
-|[Krypton](https://modrinth.com/mod/krypton)|Optimizes the Minecraft networking stack.|
 |[LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)|Adds dynamic lights to Minecraft.|
 |[Language Reload](https://modrinth.com/mod/language-reload)|Reduces load times and adds fallbacks for languages.|
 |[Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)|Makes your food and experience bars visible when riding on a horse.|
@@ -209,6 +208,8 @@ A good modpack also needs some good design whether it be models, animations, tex
 
 |Name|Description|
 |---|---|
+|[Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium)|Adss unofficial translations for the Sodium Minecraft mod.|
+|[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)||Explains chat reporting in a simple and neutral way.|
 |[Example Pack! (Hold My Items)]()|Improves some items in the first-person view when using Hold My Items.|
 |[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Significantly enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
 |[Minecarts with Wheels](https://modrinth.com/resourcepack/minecarts-with-wheels)|Adds working wheels to the minecarts.|
@@ -232,7 +233,6 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[(Bee's) Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn)|Adds a blocky model for the goat horn item.|
 |[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
 |[(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)|Reworks the vanilla crop model and adds variations to crop textures.|
-|[(Bee's) Fluffy Carpets and Wool](https://modrinth.com/resourcepack/fluffy-carpets)|Changes the carpet and wool block models to look a lot fluffier!|
 |[Spawned Eggs](https://modrinth.com/resourcepack/spawned-eggs)|Replaces the default spawn eggs with full-body pixel icons of the mobs they summon.|
 |[Icon Branding Remover](https://modrinth.com/resourcepack/icons-advertisement-removal)|Removes the annoying logo from Icons resourcepack.|
 |[Icons](https://modrinth.com/resourcepack/icons)|Introduces icons throughout different aspects of the game.|
