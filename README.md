@@ -1,4 +1,4 @@
-![Smolder's Ultimatum Title](https://cdn.modrinth.com/data/cached_images/2c1b91bb77a82b4b0769d441074e4bf7c6f1ee72.png)
+[![Smolder's Ultimatum Title](https://cdn.modrinth.com/data/cached_images/2c1b91bb77a82b4b0769d441074e4bf7c6f1ee72.png)](https://modrinth.com/modpack/smolders-ultimatum)
 ## Table of Contents
 * [Description](#description)
 * [Included Content](#included-content)
