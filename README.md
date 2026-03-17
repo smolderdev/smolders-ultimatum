@@ -191,11 +191,11 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Wavey Capes](https://modrinth.com/mod/wavey-capes)|Brings your cape to life with smooth animations and realistic physics.|
 |[WorldEdit](https://modrinth.com/mod/worldedit)|Adds advanced world editing features to Minecraft through commands and utilities.|
 |[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)|Displays a map of the nearby world terrain, players, mobs, and entities.|
-|[Xaero's World Map]()|
-|[XXL Packets]()|
-|[YetAnotherConfigLib (YACL)]()|
-|[Your Options Shall Be Respected (YOSBR)]()|
-|[Zoomify]()|
+|[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)|Adds a full screen world map which shows you what you have explored in the world.|
+|[XXL Packets](https://modrinth.com/mod/xxl-packets)|Fixes bug MC-185901 by raising the packet size limit from 2MB to 2.14GB.|
+|[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)|Acts as a configuration library designed for builders.|
+|[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)|Provides default options if the corresponding option file doesn't exist.|
+|[Zoomify](https://modrinth.com/mod/zoomify)|Aims to provide the easiest, most configurable and best looking zoom mod you will ever find.|
 #### Resource Packs
 A good modpack also needs some good design whether it be models, animations, textures, or all of them together.
 >[!NOTE]
