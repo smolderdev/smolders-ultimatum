@@ -9,6 +9,7 @@
   * [Bugs](#bugs)
   * [Crashes](#crashes)
   * [Performance Issues](#performance-issues)
+  * [Mod Incompatibilities](#mod-incompatibilities)
 * [Releases](#releases)
 ## Description
 Smolder's Ultimatum is my carefully crafted pack including mods, resource packs, and shaders to give Minecraft a visual improvement, some quality of life changes, and a lot of optimization.
@@ -19,7 +20,7 @@ As stated above, some of the mods this pack consists of are made for quality of 
 #### Visual Improvements
 Resource packs contribute the most to gameplay, with upgrades being made to items, blocks, models, UI, HUD, and even sounds. Although this pack improves the game significantly with the default rendering settings, shaders make use of the many PBR features built into most of the resource packs, allowing you to immerse yourself in an enhanced Minecraft experience.
 ## Included Content
-As this modpack is built using resources developed by others, I must give credit where it is due. Below are lists of every mod, resource pack, and shader with the name (clickable and redirects to its Modrinth page), the category, and description.
+As this modpack is built using resources developed by others, I must give credit where it is due. Below are listings of every mod, resource pack, and shader with the name (clickable and redirects to its Modrinth page), the category, and description.
 #### Mods
 I wouldn't be able to call this a modpack if it didn't contain any mods.
 |Name|Description|
@@ -196,6 +197,8 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)|Acts as a configuration library designed for builders.|
 |[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)|Provides default options if the corresponding option file doesn't exist.|
 |[Zoomify](https://modrinth.com/mod/zoomify)|Aims to provide the easiest, most configurable and best looking zoom mod you will ever find.|
+>[!NOTE]
+>Although many of the mods in this list are known to be compatible with other mods and tend to provide universal support, some mods may have incompatibilities. If you encounter a mod that is incompatible in any way with my modpack, please see [Mod Incompatibilities](#mod-incompatibilities) to learn how to create an issue. This will be the quickest way to inform me of mods that do not work.
 #### Resource Packs
 A good modpack also needs some good design whether it be models, animations, textures, or all of them together.
 >[!NOTE]
@@ -267,7 +270,13 @@ I want to make this pack as perfect as possible, so I need input from you, the u
 In the case of a bug, clearly state the issue and make sure to describe everything. This includes what it seems to be from your perspectve, any sequence of events you think could have caused it, and any screenshots or videos if at all possible.
 #### Crashes
 If you experience a crash, please attach or upload all associated logs and clearly explain what sequence of events took place before the crash. This will allow me to assess if it is a mod issue or recreate the issue myself to determine the cause.
+#### Listings
+If you find a problem, whether it be a typo or a completely incorrect URL or name for a resource, please create an issue with the current name and what the issue is along with what it should be changed to if possible.
+>[!IMPORTANT]
+>Are you a developer of one of these resources? If so, thank you! I am extremely grateful to have your creation included in my modpack. I also want your feedback. If you find anything wrong with your creation within the listings, please create an issue that includes the current listing, what you want it changed to, and proof that you are the actual developer. I'd be more than happy to change it!
 #### Performance Issues
 If you are experiencing performance issues but not encountering bugs or crashes, please do not create an issue and instead try utilizing the settings of the many performance mods to your advantage. I am only able to optimize this pack so much. If mod settings do not prevail, please try disabling resource packs that add animations or extra detail to blocks. Extra geometry can cause significant lag over time.
+#### Mod Incompatibilities
+If you find a mod that is incompatible with this modpack in any way, please create an issue listing the mod's name and origin URL along with the Fabric crash report logs if at all possible so I can determine what it was incompatible with and whether or not said mod can be removed without much of an impact.
 ## Releases
 I'll be releasing the pack only for the latest versions of the game as it is meant to provide the most complete user experience. If I find a way to downgrade packs in an efficient manner in the future, I may consider doing releases for earlier versions. For now, the current version is 1.21.11.
