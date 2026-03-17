@@ -90,36 +90,32 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Falling Leaves](https://modrinth.com/mod/fallingleaves)|Adds a neat little particle effect to leaf blocks.|
 |[Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)|Replaces the laggy reversed DNS lookup with literal IP server addresses.|
 |[Fast Item Frames](https://modrinth.com/mod/fast-item-frames)|Redesigns item frames to make them work much better and faster while adding new features.|
-|[Fast Noise]()|
-|[FastQuit]()|
-|[FerriteCore]()|
-|[Forge Config API Port]()|
-|[FPS Reducer]()|
-|[Fzzy Config]()|
-|[Gamma Utils]()|
-|[Hero's Anchor Optimizer]()|
-|[Hold My Items]()|
-|[Idle Tweaks]()|
-|[ImmediatelyFast]()|
-|[Improved Sign Editing]()|
-|[In-Game Account Switcher]()|
-|[Iris Shaders]()|
-|[Ixeris]()|
-|[Jade]()|
-|[Jukebox Custom Disc Fix]()|
-|[Just Enough Breeding (JEBr)]()|
-|[kennytvs-epic-force-close-loading-screen-mod-for-fabric]()|
-|[Krypton]()|
-|[LambDynamicLights - Dynamic Lights]()|
-|[Language Reload]()|
-|[Leave My Bars Alone]()|
-|[Let Me Despawn]()|
-|[LibJF]()|
-|[Lithium]()|
-|[Lithostitched]()|
-|[Load My F***ing Tags]()|
-|[M.R.U.]()|
-|[Make Bubbles Pop]()|
+|[Fast Noise](https://modrinth.com/mod/zfastnoise)|Optimizes storing block and biome data into chunks for the duration of worldgen.|
+|[FastQuit](https://modrinth.com/mod/fastquit)|Lets you return to the Title Screen early while your world is still saving in the background.|
+|[FerriteCore](https://modrinth.com/mod/ferrite-core)|Reduces the memory usage of Minecraft in a few different ways.|
+|[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)|Provides both NeoForge's & Forge's whole config system to other modding ecosystems.|
+|[Fzzy Config](https://modrinth.com/mod/fzzy-config)|Provides a wide array of features above and beyond what you can find in other libraries.|
+|[Gamma Utils](https://modrinth.com/mod/gamma-utils)|Adds a fully configurable and client side gamma utility.|
+|[Hold My Items](https://modrinth.com/mod/hold-my-items)|Makes your hands visible in first person.|
+|[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)|Speeds up immediate mode rendering in Minecraft.|
+|[Improved Sign Editing](https://modrinth.com/mod/improved-sign-editing)|Adds better sign editing functionality.|
+|[In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)|Allows you to change your logged in account in-game, without restarting Minecraft.|
+|[Iris Shaders](https://modrinth.com/mod/iris)|Adds a shaderpack loader intended to be compatible with existing OptiFine shaderpacks.|
+|[Ixeris](https://modrinth.com/mod/ixeris)|Adds buffered raw input and threaded event polling.|
+|[Jade](https://modrinth.com/mod/jade)|Shows information about what you are looking at.|
+|[Jukebox Custom Disc Fix](https://modrinth.com/mod/jukebox-custom-disc-fix)|Fixes bug MC-260346, which causes custom music discs, when played in a jukebox, to be cut off when the vanilla disc would normally end.|
+|[Just Enough Breeding (JEBr)](https://modrinth.com/mod/justenoughbreeding)|Displays breeding information for JEI/REI/EMI.|
+|[Krypton](https://modrinth.com/mod/krypton)|Optimizes the Minecraft networking stack.|
+|[LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)|Adds dynamic lights to Minecraft.|
+|[Language Reload](https://modrinth.com/mod/language-reload)|Reduces load times and adds fallbacks for languages.|
+|[Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)|Makes your food and experience bars visible when riding on a horse.|
+|[Let Me Despawn](https://modrinth.com/mod/lmd)|Improves performance by tweaking mob despawn rules.|
+|[LibJF](https://modrinth.com/mod/libjf)|Acts as a library for JFronny's smaller mods which contains several common components.|
+|[Lithium](https://modrinth.com/mod/lithium)|Improves a number of systems with the goal of not changing any vanilla mechanics.|
+|[Lithostitched](https://modrinth.com/mod/lithostitched)|Acts as a library mod for Fabric and Neoforge with new configurability and compatibility enhancements for worldgen.|
+|[Load My F***ing Tags](https://modrinth.com/mod/lmft)|Prevents incorrect tag entries from breaking an entire tag.|
+|[M.R.U.](https://modrinth.com/mod/mru)|Acts as a library mod used by IMB11's mods to function.|
+|[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)|Makes bubble particles pop and lets them rise realistically to the water surface.|
 |[Marlow's Crystal Optimizer]()|
 |[Melody]()|
 |[MidnightControls]()|
