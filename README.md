@@ -116,40 +116,39 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Load My F***ing Tags](https://modrinth.com/mod/lmft)|Prevents incorrect tag entries from breaking an entire tag.|
 |[M.R.U.](https://modrinth.com/mod/mru)|Acts as a library mod used by IMB11's mods to function.|
 |[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)|Makes bubble particles pop and lets them rise realistically to the water surface.|
-|[Marlow's Crystal Optimizer]()|
-|[Melody]()|
-|[MidnightControls]()|
-|[MidnightLib]()|
-|[Mod Menu]()|
-|[ModernFix]()|
-|[More Culling]()|
-|[Mouse Tweaks]()|
-|[NBT Autocomplete]()|
-|[No Chat Reports]()|
-|[Not Enough Animations]()|
-|[Not Enough Crashes]()|
-|[NotEnoughCalculator]()|
-|[Noxesium]()|
-|[OptiGUI]()|
-|[Packet Fixer]()|
-|[Paginated Advancements & Custom Frames]()|
-|[Particle Core]()|
-|[Particle Effects]()|
-|[Particle Interactions]()|
-|[Particle Rain]()|
-|[Particular Reforged]()|
-|[Polytone]()|
-|[Presence Footsteps]()|
-|[Prickle]()|
-|[Puzzle]()|
-|[Puzzles Lib]()|
-|[quick pack]()|
-|[Raise Sounds Limit Simplified]()|
-|[Reese's Sodium Options]()|
-|[Remove Reloading Screen]()|
-|[Resourceful Config]()|
-|[ResourcePackCached]()|
-|[Resourcify]()|
+|[Marlow's Crystal Optimizer](https://modrinth.com/mod/marlow-crystal-optimizer)|Fixes waiting on the server after crystal break before end crystal entities are cleaned.|
+|[Melody](https://modrinth.com/mod/melody)|Provides an OpenAL-based library mod for playing background music.|
+|[MidnightControls](https://modrinth.com/mod/midnightcontrols)|Adds controller support and enhanced controls overall.|
+|[MidnightLib](https://modrinth.com/mod/midnightlib)|Provides common utilities and a configuration system for mods.|
+|[Mod Menu](https://modrinth.com/mod/modmenu)|Adds a mod menu to view the list of mods you have installed.|
+|[ModernFix](https://modrinth.com/mod/modernfix-mvus)|Acts as a fork of ModernFix that adds minor version update support.|
+|[More Culling](https://modrinth.com/mod/moreculling)|Changes how multiple types of culling are handled in order to improve performance.|
+|[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)|Enhances inventory management by adding various functions to the mouse buttons.|
+|[NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete)|Adds suggestions for NBT tags in commands.|
+|[Not Enough Animations](https://modrinth.com/mod/not-enough-animations)|Brings first-person animations to the third-person perspective.|
+|[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)|Improves crashes in Minecraft by allowing you to keep playing after a crash.|
+|[NotEnoughCalculator](https://modrinth.com/mod/notenoughcalculator)|Adds an NEU-style calculator, now inside REI's search bar.|
+|[Noxesium](https://modrinth.com/mod/noxesium)|Improves play experience on large multiplayer servers.|
+|[OptiGUI](https://modrinth.com/mod/optigui)|Enables the customization of in-game GUI screen textures with resource packs.|
+|[Packet Fixer](https://modrinth.com/mod/packet-fixer)|Fixes various problems with packets, NBT and timeouts.
+|[Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements)|Overhauls the advancement screen by adding a load of features.|
+|[Particle Core](https://modrinth.com/mod/particle-core)|Optimizes particle rendering and many more graphical processes.|
+|[Particle Effects](https://modrinth.com/mod/particle-effects)|Adds unique textured particles for every effect in vanilla Minecraft.|
+|[Particle Interactions](https://modrinth.com/mod/particle-interactions)|Adds particles to more interactions in the game.|
+|[Particle Rain](https://modrinth.com/mod/particle-rain)|Replaces weather with prettier particle effects.|
+|[Particular Reforged](https://modrinth.com/mod/particular-reforged)|Enhances Minecraft's ambience with many hand-crafted visual effects.|
+|[Polytone](https://modrinth.com/mod/polytone)|Allows tweaking various aspect with the game via Resource Packs.|
+|[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)|Adds new and more dynamic sounds for every block the player walks on.|
+|[Prickle](https://modrinth.com/mod/prickle)|Adds a JSON based configuration file format to Minecraft.|
+|[Puzzle](https://modrinth.com/mod/puzzle)|Adds resourcepack features and a GUI to configure OptiFine alternatives more conveniently.|
+|[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)|Offers a bunch of abstractions for mod loader-specific code.|
+|[quick pack](https://modrinth.com/mod/quick-pack)|Improves datapack / resourcepack .zip file loading times.|
+|[Raise Sound Limit Simplified](https://modrinth.com/mod/rsls)|Raises Minecraft's sound sources limit in a simple way.|
+|[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)|Replaces Sodium's Options Screen with intention of improving UX.|
+|[Remove Reloading Screen](https://modrinth.com/mod/rrls)|Makes resource packs load in the background.|
+|[Resourceful Config](https://modrinth.com/mod/resourceful-config)|Allows for developers to make cross-platform configs.|
+|[ResourcePackCached](https://modrinth.com/mod/resourcepackcached)|Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin.|
+|[Resourcify](https://modrinth.com/mod/resourcify)|Adds an in-game resource pack, data pack and shader browser and updater.|
 |[Respackopts]()|
 |[Riding Mouse Fix]()|
 |[Roughly Enough Item (REI)]()|
