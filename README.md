@@ -212,7 +212,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium)|Adss unofficial translations for the Sodium Minecraft mod.|
 |[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)||Explains chat reporting in a simple and neutral way.|
 |[Example Pack! (Hold My Items)]()|Improves some items in the first-person view when using Hold My Items.|
-|[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Significantly enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
+|[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
 |[Minecarts with Wheels](https://modrinth.com/resourcepack/minecarts-with-wheels)|Adds working wheels to the minecarts.|
 |[Scripture](https://modrinth.com/resourcepack/scripture)|Upscales Minecraft’s font to 32x for better readability.|
 |[Vocal Villagers](https://modrinth.com/resourcepack/vvi)|Adds 43 extra sounds villagers can make.|
@@ -237,7 +237,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Spawned Eggs](https://modrinth.com/resourcepack/spawned-eggs)|Replaces the default spawn eggs with full-body pixel icons of the mobs they summon.|
 |[Icon Branding Remover](https://modrinth.com/resourcepack/icons-advertisement-removal)|Removes the annoying logo from Icons resourcepack.|
 |[Icons](https://modrinth.com/resourcepack/icons)|Introduces icons throughout different aspects of the game.|
-|[Unique Dark](https://modrinth.com/resourcepack/unique-dark)|Dark GUI with unique textures for functional blocks.|
+|[Unique Dark](https://modrinth.com/resourcepack/unique-dark)|Adds unique and dark GUI textures for functional blocks.|
 |[Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)|Adds more detail and variation to flower pots with new, vanilla-friendly models.|
 |[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)|Improves lanterns and chains models with an enhanced 3D look for a more immersive experience.|
 |[No Pumpkin Blur](https://modrinth.com/resourcepack/no-pumpkin-blur)|Removes the annoying pumpkin blur.|
