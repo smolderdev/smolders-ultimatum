@@ -93,6 +93,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Fast Noise](https://modrinth.com/mod/zfastnoise)|Optimizes storing block and biome data into chunks for the duration of worldgen.|
 |[FastQuit](https://modrinth.com/mod/fastquit)|Lets you return to the Title Screen early while your world is still saving in the background.|
 |[FerriteCore](https://modrinth.com/mod/ferrite-core)|Reduces the memory usage of Minecraft in a few different ways.|
+|[Fix Horizontal Camera Lag](https://modrinth.com/mod/fix-horizontal-camera-lag)|Fixes the horizontal camera lag when riding an entity.|
 |[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)|Provides both NeoForge's & Forge's whole config system to other modding ecosystems.|
 |[Fzzy Config](https://modrinth.com/mod/fzzy-config)|Provides a wide array of features above and beyond what you can find in other libraries.|
 |[Gamma Utils](https://modrinth.com/mod/gamma-utils)|Adds a fully configurable and client side gamma utility.|
@@ -149,20 +150,19 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Resourceful Config](https://modrinth.com/mod/resourceful-config)|Allows for developers to make cross-platform configs.|
 |[ResourcePackCached](https://modrinth.com/mod/resourcepackcached)|Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin.|
 |[Resourcify](https://modrinth.com/mod/resourcify)|Adds an in-game resource pack, data pack and shader browser and updater.|
-|[Respackopts]()|
-|[Riding Mouse Fix]()|
-|[Roughly Enough Item (REI)]()|
-|[Roughly Enough Professions (REP)]()|
-|[ScalableLux]()|
-|[Scribble]()|
-|[Searchables]()|
-|[Server Resourcepack Checker]()|
-|[ServerCore]()|
-|[Shield Fixes]()|
-|[Shulker Box Tooltip]()|
-|[Skyboxify]()|
-|[Smooth Scrolling]()|
-|[Smooth Swapping]()|
+|[Respackopts](https://modrinth.com/mod/respackopts)|Provides resource and data packs with config menus.|
+|[Roughly Enough Item (REI)](https://modrinth.com/mod/rei)|Acts as an alternative to Just Enough Items (JEI).|
+|[Roughly Enough Professions (REP)](https://modrinth.com/mod/roughly-enough-professions-rep)|Adds profession workstations to REI.|
+|[ScalableLux](https://modrinth.com/mod/scalablelux)|Improves the performance of light updates in Minecraft.|
+|[Scribble](https://modrinth.com/mod/scribble)|Makes editing books easier through the use of rich formatting utilities.|
+|[Searchables](https://modrinth.com/mod/searchables)|Adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.|
+|[Server Resourcepack Checker](https://modrinth.com/mod/server-resource-pack-checker)|Loads server resource packs only when necessary.|
+|[ServerCore](https://modrinth.com/mod/servercore)|Aims to optimize the minecraft server.|
+|[Shield Fixes](https://modrinth.com/mod/complete-shield-fixes)|Addresses two Minecraft bugs related to shields.|
+|[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)|Allows you to see a preview window of a shulker box contents when hovering above it in an inventory.|
+|[Skyboxify](https://modrinth.com/mod/skyboxify)|Allows you to use OptiFine skies in Fabric 1.21+.|
+|[Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)|Adds smooth scrolling to various screens in Minecraft.|
+|[Smooth Swapping](https://modrinth.com/mod/smooth-swapping)|Moves items smoothly in inventories.|
 |[Sodium]()|
 |[Sodium Extra]()|
 |[Sodium Extra Information]()|
