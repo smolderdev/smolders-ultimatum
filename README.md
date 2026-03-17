@@ -45,56 +45,51 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Balm](https://modrinth.com/mod/balm)|Library mod for mod developers that simplifies the process of creating multi-loader mods by providing common interfaces and events and removing the need for most mod-loader specific code.|
 |[Better Advancements](https://modrinth.com/mod/better-advancements)|Tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment.|
 |[Better Biome Reblend](https://modrinth.com/mod/bbrb)|Adds support for smooth, large scale, sRGB correct biome color transitions.|
-|[Better Mount HUD]()|
-|[Better Ping Display [Fabric]]()|
-|[Better Statistics Screen]()|
-|[Better Tab]()|
-|[BetterF3]()|
-|[Better Grassify]()|
-|[Blocky Bubbles]()|
-|[Boat Item View]()|
-|[CalcMod]()|
-|[Camera Overhaul]()|
-|[Camera Utils]()|
-|[Capes]()|
-|[Centered Crosshair]()|
-|[Chat Heads]()|
-|[Chat Patches]()|
-|[Cherished Worlds]()|
-|[Chunk Debug]()|
-|[Chunky]()|
-|[Client Tweaks]()|
-|[Cloth Config API]()|
-|[Clumps]()|
-|[Collective]()|
-|[Concurrent Chunk Mangament Engine]()|
-|[Configurable]()|
-|[Consumable Optimizer]()|
-|[Continuity]()|
-|[Controlling]()|
-|[Cool Rain]()|
-|[Craft Presence]()|
-|[Crash Assistant]()|
-|[CrashExploitFixer]()|
-|[CreativeCore]()|
-|[Cull Leaves]()|
-|[Dark Loading Screen]()|
-|[Debugify]()|
-|[Drip Sounds]()|
-|[Dynamic FPS]()|
-|[Effect Insights]()|
-|[Emoji Type]()|
-|[Entity Culling]()|
-|[Entity View Distance]()|
-|[Essential Mod]()|
-|[Euphoria Patches]()|
-|[Explosive Enhancement]()|
-|[Fabric API]()|
-|[Fabric Language Kotlin]()|
-|[Fabrishot]()|
-|[Falling Leaves]()|
-|[Fast IP Ping]()|
-|[Fast Item Frames]()|
+|[Better Mount HUD](https://modrinth.com/mod/better-mount-hud)|Improves the ingame HUD while riding a mount.|
+|[Better Statistics Screen](https://modrinth.com/mod/better-stats)|Improves the statistics screen and makes it more useful.|
+|[Better Tab](https://modrinth.com/mod/bettertab)|Improves the player list, making it scrollable and adding numerical ping.|
+|[BetterF3](https://modrinth.com/mod/betterf3)|Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.|
+|[Better Grassify](https://modrinth.com/mod/bettergrassify)|Implements OptiFine's Fancy and Fast better grass on Fabric and NeoForge!
+|[Boat Item View](https://modrinth.com/mod/boat-item-view)|Allows the player to see the item held in their hand while riding in a boat.|
+|[CalcMod](https://modrinth.com/mod/calcmod)|Adds a calculator in your chat with shortcuts designed for Minecraft.|
+|[Camera Overhaul](https://modrinth.com/mod/cameraoverhaul)|Improves overall satisfaction of the game through the introduction of various camera rotations, emphasizing the player's movement and improving visual feedback.|
+|[Camera Utils](https://modrinth.com/mod/camera-utils)|Adds convenient features related to the players camera.|
+|[Capes](https://modrinth.com/mod/capes)|Lets you use capes from OptiFine, LabyMod and other cape mods.|
+|[Centered Crosshair](https://modrinth.com/mod/centered-crosshair)|Centers the crosshair to be perfectly in the middle of the screen.|
+|[Chat Heads](https://modrinth.com/mod/chat-heads)|Adds player heads next to chat messages.|
+|[Chat Patches](https://modrinth.com/mod/chatpatches)|Touches up Minecraft's mundane chat, with configurability in mind.|
+|[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)|Adds the ability to favorite/pin/bookmark certain worlds.|
+|[Chunk Debug](https://modrinth.com/mod/chunk-debug)|Provides you with a live display of all the loaded chunks in any given dimension.|
+|[Client Tweaks](https://modrinth.com/mod/client-tweaks)|Adds a bunch of optional tweaks to improve the Quality of Life during gameplay.|
+|[Cloth Config API](https://modrinth.com/mod/cloth-config)|Acts as a configuration library for mods.|
+|[Clumps](https://modrinth.com/mod/ly-clumps)|Merges experience orbs and instantly picks them up to reduce lag.|
+|[Collective](https://modrinth.com/mod/collective)|Acts as a shared library with common code for all of Serilium's mods.|
+|[Concurrent Chunk Mangament Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)|Improves the chunk performance of Minecraft.|
+|[Configurable](https://modrinth.com/mod/configurable)|Allows decentralised settings in a mod.|
+|[Consumable Optimizer](https://modrinth.com/mod/consumableoptimizer)|Handles eating client-side, ensuring servers don't slow down the eating process.|
+|[Continuity](https://modrinth.com/mod/continuity)|Allows resource packs that use OptiFine's connected textures, emissive textures, or custom block layers format to work without OptiFine.
+|[Controlling](https://modrinth.com/mod/controlling)|Adds the ability to search for keybinds using their name in the KeyBinding menu.|
+|[Cool Rain](https://modrinth.com/mod/coolrain)|Creates ambient sounds for certain blocks during rain.|
+|[Crash Assistant](https://modrinth.com/mod/crash-assistant)|Shows a GUI after Minecraft crashes, immediately showing and analyzing all affected logs.|
+|[CrashExploitFixer](https://modrinth.com/mod/crashexploitfixer)|Fixes a server crash exploit that has been bandaid-fixed by Mojang in Minecraft 1.21.1, which allows malicious players to crash a server immediately after joining it.|
+|[CreativeCore](https://modrinth.com/mod/creativecore)|Acts as a simple core mod required by most of CreativeMD's mods.|
+|[Cull Leaves](https://modrinth.com/mod/cull-leaves)|Adds culling to leaf blocks, providing a huge performance boost over vanilla.|
+|[Debugify](https://modrinth.com/mod/debugify)|Fixes Minecraft bugs found on the bug tracker.|
+|[Drip Sounds](https://modrinth.com/mod/dripsounds)|Adds sounds for drip particles landing and settings for block particles.|
+|[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|Reduce resource usage while Minecraft is in the background, idle, or on battery.|
+|[Effect Insights](https://modrinth.com/mod/effect-insights)|Adds potion and food effect descriptions directly to tooltips.|
+|[Emoji Type](https://modrinth.com/mod/emoji-type)|Allows you to type Minecraft emojis and symbols with simple shortcodes.|
+|[Entity Culling](https://modrinth.com/mod/entityculling)|Uses async path-tracing to hide entities that are not visible.|
+|[Entity View Distance](https://modrinth.com/mod/entity-view-distance)|Allows more precise manipulation of entity view distance on client and server.|
+|[Essential Mod](https://modrinth.com/mod/essential)|Allows you to host worlds and enhances communication in Minecraft.|
+|[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)|Expands Complementary shaders with optional handcrafted features.|
+|[Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement)|Makes the explosion animation look cooler.|
+|[Fabric API](https://modrinth.com/mod/fabric-api)|Adds essential hooks for modding with Fabric.|
+|[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)|Enables usage of the Kotlin programming language for Fabric mods.|
+|[Fabrishot](https://modrinth.com/mod/fabrishot)|Allows you to take insanely large screenshots.|
+|[Falling Leaves](https://modrinth.com/mod/fallingleaves)|Adds a neat little particle effect to leaf blocks.|
+|[Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)|Replaces the laggy reversed DNS lookup with literal IP server addresses.|
+|[Fast Item Frames](https://modrinth.com/mod/fast-item-frames)|Redesigns item frames to make them work much better and faster while adding new features.|
 |[Fast Noise]()|
 |[FastQuit]()|
 |[FerriteCore]()|
