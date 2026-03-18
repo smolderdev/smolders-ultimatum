@@ -246,7 +246,6 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)|Gives the armor trims unique textures in the GUI, just like they have while worn by an entity.|
 |[Low Fire](https://modrinth.com/resourcepack/low-fire-pack)|Reduces the height of the fire in first-person.|
 |[Low Shield](https://modrinth.com/resourcepack/low-shield-pack)|Reduces the height of the shield in first-person.|
-|[Animated Items](https://modrinth.com/resourcepack/animated-items)|Animates various item textures.|
 |[Theone's Eating Animations](https://modrinth.com/resourcepack/theones-eating-animation-pack)|Adds sprite animations for edible and drinkable items.|
 |[Ray's Better Sugarcane](https://modrinth.com/resourcepack/better-sugar-cane)|Refreshes the vanilla sugar cane textures and adds a subtle 3D leaf model.|
 |[Vanilla Better Lily Pads](https://modrinth.com/resourcepack/vanilla-better-lily-pads)|Retextures the lily pad while staying Vanilla.|
