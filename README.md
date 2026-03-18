@@ -214,6 +214,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)||Explains chat reporting in a simple and neutral way.|
 |[Example Pack! (Hold My Items)]()|Improves some items in the first-person view when using Hold My Items.|
 |[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
+|[Torchier Torches Continued](https://modrinth.com/resourcepack/torchier-torches-continued)|Gives all the torches in the game the new Redstone Torch outline.|
 |[Minecarts with Wheels](https://modrinth.com/resourcepack/minecarts-with-wheels)|Adds working wheels to the minecarts.|
 |[Scripture](https://modrinth.com/resourcepack/scripture)|Upscales Minecraft’s font to 32x for better readability.|
 |[Vocal Villagers](https://modrinth.com/resourcepack/vvi)|Adds 43 extra sounds villagers can make.|
