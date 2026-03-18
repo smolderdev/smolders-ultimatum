@@ -81,6 +81,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|Reduce resource usage while Minecraft is in the background, idle, or on battery.|
 |[Effect Insights](https://modrinth.com/mod/effect-insights)|Adds potion and food effect descriptions directly to tooltips.|
 |[Emoji Type](https://modrinth.com/mod/emoji-type)|Allows you to type Minecraft emojis and symbols with simple shortcodes.|
+|[Enchantment Glint Outline](https://modrinth.com/mod/enchantment-glint-outline)|Adds a customizable outline to enchanted items.|
 |[Entity Culling](https://modrinth.com/mod/entityculling)|Uses async path-tracing to hide entities that are not visible.|
 |[Entity View Distance](https://modrinth.com/mod/entity-view-distance)|Allows more precise manipulation of entity view distance on client and server.|
 |[Essential Mod](https://modrinth.com/mod/essential)|Allows you to host worlds and enhances communication in Minecraft.|
@@ -228,7 +229,6 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)|Provides a unique book texture for each enchantment with a vanilla-like asethetic.|
 |[Hollowed's Discs](https://modrinth.com/resourcepack/holloweds-discs)|Retextures of every music disc in the game.|
 |[Clearer Slot Highlight](https://modrinth.com/resourcepack/clearer-slot-highlight)|Makes the item slot highlight a little clearer.|
-|[Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints)|Adds an outline to all enchantable tools.|
 |[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
 |[(Bee's) Banner Patten Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)|Retextures of banner pattern items, compatible with mods.|
 |[(Bee's) Fine Armory](https://modrinth.com/resourcepack/fine-armoury)|Retextures tools, weapons, and armour sets while keeping the Vanilla look.|
