@@ -227,6 +227,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Fresh Aniamtions: Spiders](https://modrinth.com/resourcepack/fresh-animations-spiders)|Overhauls the design of spiders with Fresh Animations.|
 |[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)|Animates entities dynamically to freshen your Minecraft experience.|
 |[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)|Provides a unique book texture for each enchantment with a vanilla-like asethetic.|
+|[Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints)|Adds an outline to all enchantable tools.|
 |[Hollowed's Discs](https://modrinth.com/resourcepack/holloweds-discs)|Retextures of every music disc in the game.|
 |[Clearer Slot Highlight](https://modrinth.com/resourcepack/clearer-slot-highlight)|Makes the item slot highlight a little clearer.|
 |[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
