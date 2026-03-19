@@ -187,7 +187,6 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)|Improves server performance at high playercounts.|
 |[ViaFabricPlus](https://modrinth.com/mod/viafabricplus)|Allows you to join every Minecraft server version.|
 |[Visuality](https://modrinth.com/mod/visuality)|Adds little visual improvements by adding a bunch of new particles.|
-|[voxy](https://modrinth.com/mod/voxy)|Lightweight low overhead Level of Detail mod for minecraft capabile of rendering extreme render distances.|
 |[WalksyLib](https://modrinth.com/mod/walksylib)|Acts as a config/utility library for Walksy's mods.|
 |[Wavey Capes](https://modrinth.com/mod/wavey-capes)|Brings your cape to life with smooth animations and realistic physics.|
 |[WorldEdit](https://modrinth.com/mod/worldedit)|Adds advanced world editing features to Minecraft through commands and utilities.|
