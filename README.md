@@ -81,7 +81,6 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|Reduce resource usage while Minecraft is in the background, idle, or on battery.|
 |[Effect Insights](https://modrinth.com/mod/effect-insights)|Adds potion and food effect descriptions directly to tooltips.|
 |[Emoji Type](https://modrinth.com/mod/emoji-type)|Allows you to type Minecraft emojis and symbols with simple shortcodes.|
-|[Enchantment Glint Outline](https://modrinth.com/mod/enchantment-glint-outline)|Adds a customizable outline to enchanted items.|
 |[Entity Culling](https://modrinth.com/mod/entityculling)|Uses async path-tracing to hide entities that are not visible.|
 |[Entity View Distance](https://modrinth.com/mod/entity-view-distance)|Allows more precise manipulation of entity view distance on client and server.|
 |[Essential Mod](https://modrinth.com/mod/essential)|Allows you to host worlds and enhances communication in Minecraft.|
