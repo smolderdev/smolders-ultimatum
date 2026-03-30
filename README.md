@@ -212,8 +212,8 @@ A good modpack also needs some good design whether it be models, animations, tex
 |Name|Description|
 |---|---|
 |[Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium)|Adss unofficial translations for the Sodium Minecraft mod.|
-|[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)||Explains chat reporting in a simple and neutral way.|
-|[Example Pack! (Hold My Items)]()|Improves some items in the first-person view when using Hold My Items.|
+|[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)|Explains chat reporting in a simple and neutral way.|
+|[Example Pack! (Hold My Items)](https://modrinth.com/mod/hold-my-items)|Improves some items in the first-person view when using Hold My Items.|
 |[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
 |[Torchier Torches Continued](https://modrinth.com/resourcepack/torchier-torches-continued)|Gives all the torches in the game the new Redstone Torch outline.|
 |[Minecarts with Wheels](https://modrinth.com/resourcepack/minecarts-with-wheels)|Adds working wheels to the minecarts.|
