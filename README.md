@@ -211,6 +211,7 @@ A good modpack also needs some good design whether it be models, animations, tex
 
 |Name|Description|
 |---|---|
+|[No Pumpkin Blur](https://modrinth.com/resourcepack/no-pumpkin-blur)|Removes the annoying pumpkin blur.|
 |[Translations for Sodium](https://modrinth.com/resourcepack/translations-for-sodium)|Adss unofficial translations for the Sodium Minecraft mod.|
 |[Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)|Explains chat reporting in a simple and neutral way.|
 |[Example Pack! (Hold My Items)](https://modrinth.com/mod/hold-my-items)|Improves some items in the first-person view when using Hold My Items.|
@@ -221,35 +222,33 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Vocal Villagers](https://modrinth.com/resourcepack/vvi)|Adds 43 extra sounds villagers can make.|
 |[Bushy Leaves](https://modrinth.com/resourcepack/bushy-leaves)|Removes the visual clutter from scaffolding.|
 |[Better Scaffolding Visibility](https://modrinth.com/resourcepack/better-scaffolding-visibility)|Makes leaves more bushy.|
-|[Fresh Aniamtions: Emissive](https://modrinth.com/resourcepack/fresh-animations-emissive)|Makes some Fresh Animations' textures emit light.|
 |[Fresh Aniamtions: Objects](https://modrinth.com/resourcepack/fresh-animations-objects)|Animates non-mob entities in Fresh Animations' style.|
+|[Fresh Aniamtions: Emissive](https://modrinth.com/resourcepack/fresh-animations-emissive)|Makes some Fresh Animations' textures emit light.|
 |[Fresh Aniamtions: Creepers](https://modrinth.com/resourcepack/fresh-animations-creepers)|Adds a new look for creepers, compatible with Fresh Animations.|
 |[Fresh Aniamtions: Player](https://modrinth.com/resourcepack/fa-player-extension)|Animates players in Fresh Animations' style.|
 |[Fresh Aniamtions: Quivers](https://modrinth.com/resourcepack/fresh-animations-quivers)|Gives skeletons quivers, compatible with Fresh Animations.|
 |[Fresh Aniamtions: Spiders](https://modrinth.com/resourcepack/fresh-animations-spiders)|Overhauls the design of spiders with Fresh Animations.|
 |[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)|Animates entities dynamically to freshen your Minecraft experience.|
+|[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
 |[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)|Provides a unique book texture for each enchantment with a vanilla-like asethetic.|
+|[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
+|[Theone's Eating Animations](https://modrinth.com/resourcepack/theones-eating-animation-pack)|Adds sprite animations for edible and drinkable items.|
 |[Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints)|Adds an outline to all enchantable tools.|
 |[Hollowed's Discs](https://modrinth.com/resourcepack/holloweds-discs)|Retextures of every music disc in the game.|
+|[Unique Dark](https://modrinth.com/resourcepack/unique-dark)|Adds unique and dark GUI textures for functional blocks.|
 |[Clearer Slot Highlight](https://modrinth.com/resourcepack/clearer-slot-highlight)|Makes the item slot highlight a little clearer.|
-|[Animated Ore with Frames](https://modrinth.com/resourcepack/animated-ore-with-frames)|Changes the appearance of plain vanilla ores to animated ores with borders.|
 |[(Bee's) Banner Patten Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)|Retextures of banner pattern items, compatible with mods.|
-|[(Bee's) Fine Armory](https://modrinth.com/resourcepack/fine-armoury)|Retextures tools, weapons, and armour sets while keeping the Vanilla look.|
 |[(Bee's) Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn)|Adds a blocky model for the goat horn item.|
-|[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
 |[(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)|Reworks the vanilla crop model and adds variations to crop textures.|
 |[Spawned Eggs](https://modrinth.com/resourcepack/spawned-eggs)|Replaces the default spawn eggs with full-body pixel icons of the mobs they summon.|
 |[Icon Branding Remover](https://modrinth.com/resourcepack/icons-advertisement-removal)|Removes the annoying logo from Icons resourcepack.|
 |[Icons](https://modrinth.com/resourcepack/icons)|Introduces icons throughout different aspects of the game.|
-|[Unique Dark](https://modrinth.com/resourcepack/unique-dark)|Adds unique and dark GUI textures for functional blocks.|
 |[Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)|Adds more detail and variation to flower pots with new, vanilla-friendly models.|
 |[Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)|Improves lanterns and chains models with an enhanced 3D look for a more immersive experience.|
-|[No Pumpkin Blur](https://modrinth.com/resourcepack/no-pumpkin-blur)|Removes the annoying pumpkin blur.|
 |[Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd)|Adds colors and icons to enchants.|
 |[Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)|Gives the armor trims unique textures in the GUI, just like they have while worn by an entity.|
 |[Low Fire](https://modrinth.com/resourcepack/low-fire-pack)|Reduces the height of the fire in first-person.|
 |[Low Shield](https://modrinth.com/resourcepack/low-shield-pack)|Reduces the height of the shield in first-person.|
-|[Theone's Eating Animations](https://modrinth.com/resourcepack/theones-eating-animation-pack)|Adds sprite animations for edible and drinkable items.|
 |[Ray's Better Sugarcane](https://modrinth.com/resourcepack/better-sugar-cane)|Refreshes the vanilla sugar cane textures and adds a subtle 3D leaf model.|
 |[Vanilla Better Lily Pads](https://modrinth.com/resourcepack/vanilla-better-lily-pads)|Retextures the lily pad while staying Vanilla.|
 |[Vanilla Better Enchanting Table](https://modrinth.com/resourcepack/vanilla-better-enchanting-table)|Retextures the enchanting table while staying Vanilla.|
