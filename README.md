@@ -62,6 +62,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[Chat Patches](https://modrinth.com/mod/chatpatches)|Touches up Minecraft's mundane chat, with configurability in mind.|
 |[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)|Adds the ability to favorite/pin/bookmark certain worlds.|
 |[Chunk Debug](https://modrinth.com/mod/chunk-debug)|Provides you with a live display of all the loaded chunks in any given dimension.|
+|[ClickThrough Plus](https://modrinth.com/mod/clickthrough+)|Helps you access containers that are marked with a sign or item frame.|
 |[Client Tweaks](https://modrinth.com/mod/client-tweaks)|Adds a bunch of optional tweaks to improve the Quality of Life during gameplay.|
 |[Cloth Config API](https://modrinth.com/mod/cloth-config)|Acts as a configuration library for mods.|
 |[Clumps](https://modrinth.com/mod/ly-clumps)|Merges experience orbs and instantly picks them up to reduce lag.|
@@ -76,6 +77,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[CrashExploitFixer](https://modrinth.com/mod/crashexploitfixer)|Fixes a server crash exploit that has been bandaid-fixed by Mojang in Minecraft 1.21.1, which allows malicious players to crash a server immediately after joining it.|
 |[CreativeCore](https://modrinth.com/mod/creativecore)|Acts as a simple core mod required by most of CreativeMD's mods.|
 |[Cull Leaves](https://modrinth.com/mod/cull-leaves)|Adds culling to leaf blocks, providing a huge performance boost over vanilla.|
+|[Cut Through](https://modrinth.com/mod/cut-through)|Allows you to swing your weapon through all blocks without a collision shape when fighting an enemy.|
 |[Debugify](https://modrinth.com/mod/debugify)|Fixes Minecraft bugs found on the bug tracker.|
 |[Drip Sounds](https://modrinth.com/mod/dripsounds)|Adds sounds for drip particles landing and settings for block particles.|
 |[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)|Reduce resource usage while Minecraft is in the background, idle, or on battery.|
@@ -119,6 +121,7 @@ I wouldn't be able to call this a modpack if it didn't contain any mods.
 |[M.R.U.](https://modrinth.com/mod/mru)|Acts as a library mod used by IMB11's mods to function.|
 |[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)|Makes bubble particles pop and lets them rise realistically to the water surface.|
 |[Marlow's Crystal Optimizer](https://modrinth.com/mod/marlow-crystal-optimizer)|Fixes waiting on the server after crystal break before end crystal entities are cleaned.|
+|[McQoy](https://modrinth.com/mod/mcqoy)|Generates YACL or Cloth configuration screens for mods using Kaleido.|
 |[Melody](https://modrinth.com/mod/melody)|Provides an OpenAL-based library mod for playing background music.|
 |[MidnightControls](https://modrinth.com/mod/midnightcontrols)|Adds controller support and enhanced controls overall.|
 |[MidnightLib](https://modrinth.com/mod/midnightlib)|Provides common utilities and a configuration system for mods.|
