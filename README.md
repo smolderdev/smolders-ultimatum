@@ -236,10 +236,10 @@ A good modpack also needs some good design whether it be models, animations, tex
 |[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)|Provides a unique book texture for each enchantment with a vanilla-like asethetic.|
 |[(Bee's) Banner Patten Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)|Retextures of banner pattern items, compatible with mods.|
 |[Blinking Ender Eyes](https://modrinth.com/resourcepack/blinking-ender-eyes)|Adds creepy, random blinking to End Portal Frames and Ender Eyes.|
-|[Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)|Adds more detail and variation to flower pots with new, vanilla-friendly models.|
 |[Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)|Gives the armor trims unique textures in the GUI, just like they have while worn by an entity.|
 |[Bushy Leaves](https://modrinth.com/resourcepack/bushy-leaves)|Makes leaves more bushy.|
 |[(Bee's) Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn)|Adds a blocky model for the goat horn item.|
+|[Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)|Adds more detail and variation to flower pots with new, vanilla-friendly models.|
 |[Better Beds](https://modrinth.com/resourcepack/better-3d-beds)|Enhances the appearance of beds in the game, making them more realistic and detailed with new 3D models.|
 |[Better Scaffolding Visibility](https://modrinth.com/resourcepack/better-scaffolding-visibility)|Removes the visual clutter from scaffolding.|
 |[Vanilla Better Enchanting Table](https://modrinth.com/resourcepack/vanilla-better-enchanting-table)|Retextures the enchanting table while staying Vanilla.|
